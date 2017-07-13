@@ -4,6 +4,7 @@ The aim was to build a full compiler from C to Mips using Yacc and Bison to pars
 According to the tests provided by the lecturer under whom I completed this assignment, the Compiler performs as follows:
 
 
+
 | Category | Passed | Compiled |  Score |
 |----------|--------|----------|--------|
 |   direct | 100.0% |   100.0% | 100.0% |
